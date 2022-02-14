@@ -1,8 +1,7 @@
 import React from 'react';
 import {
   green,
-  pink,
-  blue
+  pink
 } from '@mui/material/colors';
 import {
   Grid,

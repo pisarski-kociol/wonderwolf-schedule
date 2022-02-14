@@ -253,7 +253,7 @@ export function MainPage() {
               Metoda wspólnego pisania, którą zaproponuję może okazać się dość nowatorska, więc będziemy potrzebować kilku narzędzi. W ramach tego kanału będę je tworzył i pokarzę jak się programuje.
             </Typography>
             <Typography sx={{ paddingBottom: 1}}>
-              Książka zatytuowana jest <em>Cudowny Wilk</em> a jej pierwszy szkic zostanie (częścioło już został) napisany w stylu zainspirowanym <Link href="https://en.wikipedia.org/wiki/Iyashikei">Iyakishei</Link>. Ale to tylko szkic. Jak potoczy się akcja? Kim będą bohaterowie? Jakie będzie zakończenie? To wszystko zależeć będzie również od Ciebie.
+              Książka zatytuowana jest <em>Cudowny Wilk</em> a jej pierwszy szkic zostanie (częścioło już został) napisany w stylu zainspirowanym <Link href="https://en.wikipedia.org/wiki/Iyashikei">Iyashikei</Link>. Ale to tylko szkic. Jak potoczy się akcja? Kim będą bohaterowie? Jakie będzie zakończenie? To wszystko zależeć będzie również od Ciebie.
             </Typography>
             <Typography sx={{ paddingBottom: 2}}>
               Poniżej możesz przeczytać, jak to przedsięwzięcie będzie przebiegało. Brzmi interesująco? Jeśli tak, to zapraszam na mój kanał na Twitchu: <Link href="https://www.twitch.tv/pisarski_kociol">Pisarski Kocioł</Link>. Zaczynamy we wtorek <strong>22,02,2022</strong>.

@@ -114,7 +114,7 @@ const CustomizedTimeline = () => {
               </Grid>
               <Grid item xs={10}>
                 <Typography>
-                  Będę stopniowo prezentował kolejne fragmenty książki. Poznasz je trochę tak, jak przy czytaniu książki. Przy okazji zobaczysz, czy chcesz uczestniczyć w jej współtworzeniu, a jeśli tak, to wyrobisz sobie zdanie co fajnie by było zmienić i jak?
+                  Będę stopniowo prezentował kolejne fragmenty opowiadania. Poznasz całą historię od początku do końca. To będzie trochę tak jak słuchanie audiobooka z komentarzem. Przy okazji zobaczysz, czy chcesz uczestniczyć w jej współtworzeniu, a jeśli tak, to wyrobisz sobie zdanie co fajnie by było zmienić i jak?
                 </Typography>
               </Grid>
             </Grid>
@@ -126,7 +126,7 @@ const CustomizedTimeline = () => {
               </Grid>
               <Grid item xs={10}>
                 <Typography>
-                  Pokażę jak napisana jest strona internetowa na której teraz jesteś i jak stworzyć podobną. Zaprezentuję również niewielkie narzędzie, z którego będę korzystał do planowania struktury książki. Później wydam to narzędzie na <Link href="https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie">licencji otwartoźródłowej</Link>, żeby każdy mógł z niego skorzystać.
+                  Pokażę jak napisana jest strona internetowa na której teraz jesteś i jak stworzyć podobną. Zaprezentuję również niewielkie narzędzie, z którego będę korzystał do planowania struktury opowiadania. Później wydam to narzędzie na <Link href="https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie">licencji otwartoźródłowej</Link>, żeby każdy mógł z niego skorzystać.
                 </Typography>
               </Grid>
             </Grid>
@@ -161,7 +161,7 @@ const CustomizedTimeline = () => {
               </Grid>
               <Grid item xs={10}>
                 <Typography>
-                  Pisanie razem będzie wyglądało tak, jak współcześnie wygląda programowanie w grupie. Pokażę jak korzystać z <Link href="https://github.com/">Githuba</Link>, żeby wspólnie sugerować zmiany w książce. Od czegoś musimy zacząć, zatem historię mam już w głowie, ale na tym etapie wszystko będzie dozwolone - zmiana kierunku rozwoju książki, zmiana charakteru postaci, zmiana zakończenia...
+                  Pisanie razem będzie wyglądało tak, jak współcześnie wygląda programowanie w grupie. Pokażę jak korzystać z <Link href="https://github.com/">Githuba</Link>, żeby wspólnie sugerować zmiany w książce. Od czegoś musimy zacząć, zatem historię mam już w głowie, ale na tym etapie wszystko będzie dozwolone - zmiana kierunku rozwoju historii, zmiana charakteru postaci, zmiana zakończenia...
                 </Typography>
               </Grid>
             </Grid>
@@ -208,7 +208,7 @@ const CustomizedTimeline = () => {
               </Grid>
               <Grid item xs={10}>
                 <Typography>
-                  Planuję skontaktować się z najfajniejszymi Polskimi wydawcami. Jeśli to się nie uda, wydamy tę książkę poprzez usługę Amazon Kindle Direct Publishing (<Link href="https://mfishbein.com/how-to-self-publish-a-book-on-amazon/">KDP</Link>). Conajmniej przez pierwszy rok po wydaniu, dochód zostanie podzielony pomiędzy uczestników (udział obliczony będzie automatyczne na podstawie ilości słów dodanych do książki lub z niej usuniętych). Po tym czasie (na przykład jeśli dochód będzie niewielki a lista autorów długa), przekażę dochód na wspólnie wybraną organizację charytatywną.
+                  Planuję skontaktować się z najfajniejszymi Polskimi wydawcami ale możliwe, że wydamy tę książkę poprzez usługę Amazon Kindle Direct Publishing (<Link href="https://mfishbein.com/how-to-self-publish-a-book-on-amazon/">KDP</Link>). Conajmniej przez pierwszy rok po wydaniu, dochód zostanie podzielony pomiędzy uczestników (udział obliczony będzie automatyczne na podstawie liczby znaków dodanych do książki lub z niej usuniętych). Po tym czasie (na przykład jeśli dochód będzie niewielki a lista autorów długa), przekażę dochód na wspólnie wybraną organizację charytatywną.
                 </Typography>
               </Grid>
             </Grid>
@@ -251,10 +251,10 @@ export function MainPage() {
               <strong>Czy czytanie, lub pisanie działa na Ciebie kojąco?</strong> A może jeszcze nie wiesz? Tak czy inaczej chciałbym zaprosić Ciebie do udziału w małym eksperymencie. <strong>Napiszmy razem książkę!</strong> Ale taką maksymalnie kojącą. Taką, o której wiesz, że zawsze poprawi Tobie nastrój.
             </Typography>
             <Typography sx={{ paddingBottom: 2}}>
-              Są dwa rodzaje tworzenia, które uwielbiam: pisanie i programowanie. Chciałbym w trakcie tego eksperymentu podzielić się obiema pasjami. Jeśli się przyłączysz, <strong>poczujesz przyjemność pisania książki i przyjemność programowania</strong> tak, jakbyś robił to już od lat. Jeśli któraś z tych form tworzenia jest Tobie obca ale zastanawiasz się, czy mogłaby się Tobie spodobać, nie znam lepszego sposobu, niż przyłączenie się do tego eksperymentu :-)
+              Są dwa rodzaje tworzenia, które uwielbiam: pisanie i programowanie. Chciałbym podzielić się obiema pasjami. Jeśli się przyłączysz, <strong>doświadczysz zarówno przyjemności pisania opowiadania, jak i przyjemności programowania</strong> tak, jakbyś zajmował się jednym i drugim od lat. Jeśli któraś z tych form tworzenia jest Tobie obca ale zastanawiasz się, czy mogłaby się Tobie spodobać, nie znam lepszego sposobu, niż przyłączenie się do tej zabawy :-)
             </Typography>
             <Typography sx={{ paddingBottom: 2}}>
-              Poniżej możesz przeczytać, jak ten eksperyment będzie przebiegał. Jeśli podejrzewasz, że to może być coś dla Ciebie, zapraszam na mój kanał na Twitchu, gdzie ta przygoda będzie miała miała miejsce: <Link href="#">Terapeutyczne Pisanie z Krzyśkiem</Link>.
+              Poniżej możesz przeczytać, jak to całe przedsięwzięcie będzie przebiegało. Jeśli podejrzewasz, że to może być coś dla Ciebie, zapraszam na mój kanał na Twitchu, gdzie ta przygoda będzie miała miała miejsce: <Link href="#">Terapeutyczne Pisanie z Krzyśkiem</Link>.
             </Typography>
           </Box>
         </Grid>

@@ -41,7 +41,7 @@ const CustomizedTimeline = () => {
           variant="body2"
           color="text.secondary"
         >
-          22-go lutego (22,02,2022) :-)
+          27-go lutego
         </TimelineOppositeContent>
         <TimelineSeparator>
           <TimelineConnector />
@@ -256,7 +256,7 @@ export function MainPage() {
               Książka zatytuowana jest <em>Cudowny Wilk</em> a jej pierwszy szkic zostanie (częścioło już został) napisany w stylu zainspirowanym <Link href="https://en.wikipedia.org/wiki/Iyashikei">Iyashikei</Link>. Ale to tylko szkic. Jak potoczy się akcja? Kim będą bohaterowie? Jakie będzie zakończenie? To wszystko zależeć będzie również od Ciebie.
             </Typography>
             <Typography sx={{ paddingBottom: 2}}>
-              Poniżej możesz przeczytać, jak to przedsięwzięcie będzie przebiegało. Brzmi interesująco? Jeśli tak, to zapraszam na mój kanał na Twitchu: <Link href="https://www.twitch.tv/pisarski_kociol">Pisarski Kocioł</Link>. Zaczynamy we wtorek <strong>22,02,2022</strong>.
+              Poniżej możesz przeczytać, jak to przedsięwzięcie będzie przebiegało. Brzmi interesująco? Jeśli tak, to zapraszam na mój kanał na Twitchu: <Link href="https://www.twitch.tv/pisarski_kociol">Pisarski Kocioł</Link>. Zaczynamy we wtorek <strong>27,02,2022</strong>.
             </Typography>
           </Box>
         </Grid>

@@ -113,7 +113,7 @@ const CustomizedTimeline = () => {
               </Grid>
               <Grid item xs={10}>
                 <Typography>
-                  Będę stopniowo prezentował kolejne fragmenty opowiadania. Poznasz całą historię od początku do końca jakby to było słuchowisko w odcinkach. Przy okazji zobaczysz, czy chcesz uczestniczyć w jej współtworzeniu, a jeśli tak, to wyrobisz sobie zdanie co fajnie by było zmienić i jak?
+                  Będę stopniowo prezentował kolejne fragmenty opowiadania. Poznasz całą historię od początku do końca jakby to było słuchowisko w odcinkach. Przy okazji zobaczysz, czy chcesz uczestniczyć w jej współtworzeniu, a jeśli tak, to wyrobisz sobie zdanie co fajnie by było zmienić i jak? <strong>Jeśli chcesz, możesz zostawić sugestie i komentarze <Link href="https://docs.google.com/document/d/1dns110kw66VTciXzU56kS59zQhqaCAjG92fHcEls9yg/edit?usp=sharing" target="_blank">tyutaj</Link></strong>
                 </Typography>
               </Grid>
             </Grid>
